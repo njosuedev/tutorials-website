@@ -7,11 +7,11 @@ export default function Header () {
       <nav>
         <a style={{marginRight:'auto'}} href="/">NJDev</a>
         <a href="/">Home</a>
-        <a href="/projects">Ui Design</a>
-        <a href="/projects">Websites</a>
-        <a href="/projects">Web app</a>
-        <a href="/projects">E-commerce</a>
-        <a style={{marginLeft:'auto'}} href="/infome">Info</a>
+        <a href="/">Ui Design</a>
+        <a href="/">Websites</a>
+        <a href="/">Web app</a>
+        <a href="/">E-commerce</a>
+        <a style={{marginLeft:'auto'}} href="/">Info</a>
       </nav>
     </header>
   );
