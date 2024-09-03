@@ -1,0 +1,17 @@
+.header{
+    background-color: rgb(18,18,18);
+    padding: 10px;
+    border-bottom: 1px solid #333;
+}
+.header nav{
+    display: flex;
+    gap: 1rem;
+}
+.header nav a{
+    text-decoration: none;
+    color: #eee;
+    font-size: 18px;
+    border-radius: 10px;
+    background-color: #333;
+    padding: 10px 20px;
+}

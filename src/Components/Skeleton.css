@@ -1,0 +1,18 @@
+.skeleton-loader {
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    gap: 1rem;
+}
+.topAccount{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 0.5rem;
+}
+.topHome{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    margin-left: 2.5rem;
+}
