@@ -5,7 +5,6 @@ main{
     justify-content: center;
     align-items: center;
 }
-
 .pos {
     margin-top: 10px;
     display: flex;
@@ -65,4 +64,11 @@ main{
     padding: 2px;
     border: 1px solid blueviolet;
   }
+  img{
+    -webkit-user-drag: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+  
   
